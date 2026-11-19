@@ -29,3 +29,7 @@ Shared options for visitors to compare go in the same block as a `versions` arra
 ## Accuracy
 
 The plot boundary was traced from the title plan at 1:1250, which shows the general line of the boundary rather than its exact position. The house comes from the floorplan. Existing trees, beds and outbuildings were placed from photographs and are approximate. Plant growth uses typical sizes and rates. Sun hours are for the 15th of each month, at ground level.
+
+## Starter kit for other gardens
+
+`garden-model-starter-kit.md` lets someone build the same kind of model for their own garden. They attach it to a new Claude chat and ask Claude to follow it. It contains a short guide for the gardener, instructions for Claude (measuring from title plans, floorplans and aerial photos, and the plan format) and the complete page, with no plan embedded. It's a snapshot of `index.html`, so after changes to the page, regenerate the kit if it should include them.
